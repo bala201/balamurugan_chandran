@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/bala201.github.io/balamurugan_chandran/static/js/main.a7338b6b.chunk.js",
+    "main.js.map": "/bala201.github.io/balamurugan_chandran/static/js/main.a7338b6b.chunk.js.map",
+    "runtime-main.js": "/bala201.github.io/balamurugan_chandran/static/js/runtime-main.98f59d76.js",
+    "runtime-main.js.map": "/bala201.github.io/balamurugan_chandran/static/js/runtime-main.98f59d76.js.map",
+    "static/css/2.a59cb92c.chunk.css": "/bala201.github.io/balamurugan_chandran/static/css/2.a59cb92c.chunk.css",
+    "static/js/2.4c6650b6.chunk.js": "/bala201.github.io/balamurugan_chandran/static/js/2.4c6650b6.chunk.js",
+    "static/js/2.4c6650b6.chunk.js.map": "/bala201.github.io/balamurugan_chandran/static/js/2.4c6650b6.chunk.js.map",
+    "index.html": "/bala201.github.io/balamurugan_chandran/index.html",
+    "static/css/2.a59cb92c.chunk.css.map": "/bala201.github.io/balamurugan_chandran/static/css/2.a59cb92c.chunk.css.map",
+    "static/js/2.4c6650b6.chunk.js.LICENSE.txt": "/bala201.github.io/balamurugan_chandran/static/js/2.4c6650b6.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/bala201.github.io/balamurugan_chandran/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/bala201.github.io/balamurugan_chandran/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/bala201.github.io/balamurugan_chandran/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.43fc7da0.jpg": "/bala201.github.io/balamurugan_chandran/static/media/about-page-img.43fc7da0.jpg",
+    "static/media/about-sec-img.81c1b1ab.jpg": "/bala201.github.io/balamurugan_chandran/static/media/about-sec-img.81c1b1ab.jpg",
+    "static/media/greenctg.e51b3bbd.jpg": "/bala201.github.io/balamurugan_chandran/static/media/greenctg.e51b3bbd.jpg",
+    "static/media/hero.746da1df.jpg": "/bala201.github.io/balamurugan_chandran/static/media/hero.746da1df.jpg",
+    "static/media/map.08ffdce1.png": "/bala201.github.io/balamurugan_chandran/static/media/map.08ffdce1.png",
+    "static/media/projectImg.771236e1.png": "/bala201.github.io/balamurugan_chandran/static/media/projectImg.771236e1.png",
+    "static/media/resume.09c4fba9.pdf": "/bala201.github.io/balamurugan_chandran/static/media/resume.09c4fba9.pdf",
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/bala201.github.io/balamurugan_chandran/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.ecc0133c.svg": "/bala201.github.io/balamurugan_chandran/static/media/social-media-arrow.ecc0133c.svg",
+    "static/media/utracker.be1fe64a.jpg": "/bala201.github.io/balamurugan_chandran/static/media/utracker.be1fe64a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f59d76.js",
+    "static/css/2.a59cb92c.chunk.css",
+    "static/js/2.4c6650b6.chunk.js",
+    "static/js/main.a7338b6b.chunk.js"
+  ]
+}
